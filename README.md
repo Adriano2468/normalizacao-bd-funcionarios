@@ -13,12 +13,12 @@ Normalização de Base de Dados — Sistema de Gestão de Funcionários
 Informações Académicas
 
 Campo	Informação
-Estudante	Adriano Jaime Quimisse Júnior
+Estudante:	Adriano Jaime Quimisse Júnior
 Universidade Licungo
 Faculdade	Faculdade de Ciências e Tecnologias
-Curso	Licenciatura em Informática
-Trabalho	Trabalho II
-Tema	Normalização de Base de Dados — Sistema de Gestão de Funcionários
+Curso:Licenciatura em Informática
+Projeto	:Trabalho II
+Tema:Normalização de Base de Dados — Sistema de Gestão de Funcionários
 SGBD	MySQL
 
 
